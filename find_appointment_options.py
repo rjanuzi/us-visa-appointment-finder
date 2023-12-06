@@ -10,7 +10,7 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 
 RUN_FOREVER = True
-SLEEP_TIME = 60 * 60 * 2  # 2 Hours
+SLEEP_TIME = 60 * 60 * 4  # 2 Hours
 MONTHS_RANGE = 12
 OUTPUT_DAYS_LIMIT = 10
 CONFIG_FILE = "config.json"

@@ -42,7 +42,7 @@ The above command will install the following dependecies:
 python find_appointment_options.py
 ```
 
-The above command will start the program. The script will run "forever" (just close it when you want to) and will check for appointment options every 2 hours.
+The above command will start the program. The script will run "forever" (just close it when you want to) and will check for appointment options every 4 hours.
 
 The main steps executed are:
 
